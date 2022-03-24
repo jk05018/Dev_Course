@@ -6,6 +6,8 @@ import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
 
+import com.example.framework_for_java.iter.MyIterator;
+
 public class MyCollection<T> {
 	private List<T> list;
 
@@ -41,5 +43,21 @@ public class MyCollection<T> {
 			T data = list.get(i);
 			consumer.accept(data);
 		}
+	}
+
+	public MyIterator<T> iterator(){
+		return new MyIterator<T>() {
+			private int index;
+
+			@Override
+			public boolean hasNext() {
+				return index < list.size();
+			}
+
+			@Override
+			public T next() {
+				return list.get(index++);
+			}
+		};
 	}
 }
