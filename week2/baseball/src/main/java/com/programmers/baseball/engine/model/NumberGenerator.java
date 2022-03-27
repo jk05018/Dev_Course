@@ -1,4 +1,4 @@
-package com.programmers.baseball.engine;
+package com.programmers.baseball.engine.model;
 
 import java.util.stream.Stream;
 

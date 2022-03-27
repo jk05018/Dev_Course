@@ -6,6 +6,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import com.programmers.baseball.engine.io.Input;
 import com.programmers.baseball.engine.io.Output;
 import com.programmers.baseball.engine.model.BallCount;
+import com.programmers.baseball.engine.model.NumberGenerator;
 import com.programmers.baseball.engine.model.Numbers;
 
 public class BaseBall implements Runnable {
