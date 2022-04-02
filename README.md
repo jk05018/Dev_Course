@@ -5,6 +5,7 @@ Design Pattern<br>
 
 [2022-03-25 디자인패턴(1)](https://velog.io/@jk05018/22.03.21-22.03.25-WIL-정리)<br>
 [2022-03-31 프로그래밍 언어의 발전 & Java의 동작 기초 이해](https://velog.io/@jk05018/22.03.31-WIL-프로그래밍-언어의-발전-Java의-동작-기초-이해)<br>
+[2022-04-02 effective java item 1: 정적 팩터리 메서드](https://velog.io/@jk05018/Item1-생성자대신-정적-팩터리를-고려하라)<br>
 
 
 Database
