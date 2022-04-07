@@ -25,3 +25,4 @@ Spring & SpringBoot
 [2022-04-04 Maven & Gradle](https://velog.io/@jk05018/22.04.04-Maven-Gradle)<br>
 [2022-04-05 Spring & IoC & DI](https://velog.io/@jk05018/22.04.05-WIL-Spring-IoC-DI)<br>
 [2022-04-06 Spring Bean & 의존서 자동 주입](https://velog.io/@jk05018/22.04.05-WIL-Spring-IoC-DI)<br>
+[2022-04-07 Environment & Profile & Resource](https://velog.io/@jk05018/22.04.07-WIL-Environment-Profile-Resource)<br>
