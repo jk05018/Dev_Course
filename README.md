@@ -11,6 +11,7 @@ Java<br>
 [2022-04-02 effective java item 1: 정적 팩터리 메서드](https://velog.io/@jk05018/Item1-생성자대신-정적-팩터리를-고려하라)<br>
 [2022-04-05 effective java item 2: 빌터 패턴](https://velog.io/@jk05018/Item-2-매개변수가-많다면-빌더-패턴을-고려하라)<br>
 [2022-04-06 JVM의 GC](https://velog.io/@jk05018/22.04.06-JVM의-GC)<br>
+[2022-04-11 effective java item3 &iItem4 싱글톤, private 생성자](https://velog.io/@jk05018/22.04.11-Item3-Item4-싱글톤-private-생성자)<br>
 
 Database
 
