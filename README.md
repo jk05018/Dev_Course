@@ -32,4 +32,5 @@ Spring & SpringBoot
 [2022-04-07 Environment & Profile & Resource](https://velog.io/@jk05018/22.04.07-WIL-Environment-Profile-Resource)<br>
 [2022-04-08 Logging](https://velog.io/@jk05018/22.04.08-WIL-Logging)<br>
 [2022-04-09 SpringBoot 이해](https://velog.io/@jk05018/22.04.09-WIL-SpringBoot-이해)<br>
-[2022-04-11 testing](https://velog.io/@jk05018/22.04.11-WIL-testing)<br>
+[2022-04-11 Testing](https://velog.io/@jk05018/22.04.11-WIL-testing)<br>
+[2022-04-18 Java와 예외처리](https://velog.io/@jk05018/Java와-예외-처리)<br>
