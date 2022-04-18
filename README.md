@@ -33,4 +33,6 @@ Spring & SpringBoot
 [2022-04-08 Logging](https://velog.io/@jk05018/22.04.08-WIL-Logging)<br>
 [2022-04-09 SpringBoot 이해](https://velog.io/@jk05018/22.04.09-WIL-SpringBoot-이해)<br>
 [2022-04-11 Testing](https://velog.io/@jk05018/22.04.11-WIL-testing)<br>
+[22-04-11 ~ 22-04-12 JDBC & 데이터 접근](https://velog.io/@jk05018/22.04.11-22.04.12-JDBC-데이터-접근)<br>
+[2022-04-13 ~ 2022-04-14JDBC와 Transaction](https://velog.io/@jk05018/22.04.18-WIL-JDBC와-Transaction)<br>
 [2022-04-18 Java와 예외처리](https://velog.io/@jk05018/Java와-예외-처리)<br>
