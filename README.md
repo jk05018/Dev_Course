@@ -13,6 +13,7 @@ Java<br>
 [2022-04-06 JVM의 GC](https://velog.io/@jk05018/22.04.06-JVM의-GC)<br>
 [2022-04-11 effective java item3 &iItem4 싱글톤, private 생성자](https://velog.io/@jk05018/22.04.11-Item3-Item4-싱글톤-private-생성자)<br>
 [2022-04-15 자바와 객체 지향](https://velog.io/@jk05018/22.04.15-자바와-객체지향)<br>
+[2022-04-11 effective java item5 의존 객체 주입을 사용하라](https://velog.io/@jk05018/Item5-의존-객체-주입을-사용하라)<br>
 
 Database
 
