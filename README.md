@@ -37,3 +37,4 @@ Spring & SpringBoot
 [2022-04-11 ~ 2022-04-12 JDBC & 데이터 접근](https://velog.io/@jk05018/22.04.11-22.04.12-JDBC-데이터-접근)<br>
 [2022-04-13 ~ 2022-04-14JDBC와 Transaction](https://velog.io/@jk05018/22.04.18-WIL-JDBC와-Transaction)<br>
 [2022-04-18 Java와 예외처리](https://velog.io/@jk05018/Java와-예외-처리)<br>
+[2022-04-20 Web Technology & Servlet](https://velog.io/@jk05018/22.04.20-WIL-Web-Technology-Servlet)<br>
