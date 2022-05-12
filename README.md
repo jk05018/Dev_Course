@@ -42,4 +42,7 @@ Spring & SpringBoot
 [2022-04-22 Spring MVC(2)](https://velog.io/@jk05018/22.04.22-WIL-Spring-MVC2)<br>
 [2022-04-23 SPA & CORS](https://velog.io/@jk05018/22.04.23-WIL-SPA-CORS)<br>
 
+Spring Data JPA
+[2022-05-09 ~ 2022-05-12 JPA 기초 개념](https://velog.io/@jk05018/22.05.09-22.05.12-WIL-JPA-기초-개념)<br>
+[2022-05-12 영속성 컨텍스트 & OSIV](https://velog.io/@jk05018/22.05.12-WIL-영속성-컨텍스트-OSIV)<br>
 
