@@ -52,5 +52,6 @@ Spring Security
 [2022-05-16 Spring Security 기초 & 사용자 등록](https://velog.io/@jk05018/22.05.16-WIL-Spring-Security-사용자-등록하기)<br>
 [2022-05-17 Spring Security Filter들(1)](https://velog.io/@jk05018/22.05.17-WIL-Spring-Security-Filter들1)<br>
 [2022-05-18 SecurityContextHolder, SecurityContext, Authentication](https://velog.io/@jk05018/22.05.18-WIL-SecurityContextHolder-SecurityContext-Authentication)<br>
-[2022-05-17 Spring Security Filter들(2)](https://velog.io/@jk05018/22.05.19-Spring-Security-Filter들2)<br>
+[2022-05-19 Spring Security Filter들(2)](https://velog.io/@jk05018/22.05.19-Spring-Security-Filter들2)<br>
+[2022-05-20 인가 처리 & Spring Security 인증 이벤트](https://velog.io/@jk05018/22.05.20-WIL-인가-처리-Spring-Security-인증-이벤트)<br>
 
