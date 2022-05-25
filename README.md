@@ -54,4 +54,5 @@ Spring Security
 [2022-05-18 SecurityContextHolder, SecurityContext, Authentication](https://velog.io/@jk05018/22.05.18-WIL-SecurityContextHolder-SecurityContext-Authentication)<br>
 [2022-05-19 Spring Security Filter들(2)](https://velog.io/@jk05018/22.05.19-Spring-Security-Filter들2)<br>
 [2022-05-20 인가 처리 & Spring Security 인증 이벤트](https://velog.io/@jk05018/22.05.20-WIL-인가-처리-Spring-Security-인증-이벤트)<br>
+[2022-05-24 HTTP Session & Spring Cluster](https://velog.io/@jk05018/22.05.24-WIL-HTTP-Session-Spring-Cluster)<br>
 
